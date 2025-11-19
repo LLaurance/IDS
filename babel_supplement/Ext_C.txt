@@ -1,4 +1,4 @@
-# 6 characters added in Unicode version 17.0 (September 2025)
+﻿# 6 characters added in Unicode version 17.0 (September 2025)
 U+2B73A	𫜺	^⿱山田$(GT)
 U+2B73B	𫜻	^⿱玨丁$(G)
 U+2B73C	𫜼	^⿰出叕$(T)

@@ -1,4 +1,4 @@
-# CJK Unified Ideographs Extension J (4,298 characters)
+﻿# CJK Unified Ideographs Extension J (4,298 characters)
 # 4,298 characters added in Unicode version 17.0 (September 2025)
 U+323B0	𲎰	^⿻丅𠃍$(U)
 U+323B1	𲎱	^⿻𠃏一$(U)

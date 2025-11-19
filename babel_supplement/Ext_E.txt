@@ -1,4 +1,4 @@
-# 12 characters added in Unicode version 17.0 (September 2025)
+﻿# 12 characters added in Unicode version 17.0 (September 2025)
 U+2CEA2	𬺢	^⿱一八$(G)
 U+2CEA3	𬺣	^⿱口一$(G)
 U+2CEA4	𬺤	^⿱亠公$(G)
