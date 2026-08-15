@@ -12,3 +12,7 @@ Time permitting, I hope to incorporate the new horizontal extensions, iron out m
 Occasionally, existing IDS lists, https://github.com/yi-bai/ids and https://github.com/chise/ids, have been consulted but never copied from.
 
 Suggestions are welcome.
+
+---
+
+2026-08-15: Added `IDS_TEMPLATE.TXT` as a blank template (Caveat Lector and Documentation removed, counts corrected and updated for Unicode 17.0 (September 2025)) for IDS data stored in the format designed by Andrew West.
