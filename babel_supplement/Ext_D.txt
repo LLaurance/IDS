@@ -1,0 +1,2 @@
+# 1 character added in Unicode version 18.0 (September 2026)
+U+2B81E	𫠞	^⿰日欠$(G)	*U+2B81E≠U+6B25
